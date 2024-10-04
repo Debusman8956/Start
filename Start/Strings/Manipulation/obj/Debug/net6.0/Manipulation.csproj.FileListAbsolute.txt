@@ -1,0 +1,14 @@
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.exe
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.deps.json
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.runtimeconfig.json
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.dll
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.pdb
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.AssemblyInfoInputs.cache
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.AssemblyInfo.cs
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.dll
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\obj\Debug\net6.0\refint\Manipulation.dll
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.pdb
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.genruntimeconfig.cache
+C:\Users\muhdm\Downloads\Start\Start\Strings\Manipulation\obj\Debug\net6.0\ref\Manipulation.dll

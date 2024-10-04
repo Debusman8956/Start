@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B271aZiI0WRhZD7NatM73vFQMn8MLpTEv4a4y3bOUVTMZqqXtE6sRpllvnJ9HMqUDGKLPgWC7sSnR5iW8u4Ifg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\NumbersDates\\FormatDates\\FormatDates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
