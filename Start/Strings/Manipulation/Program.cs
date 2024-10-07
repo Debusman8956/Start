@@ -41,6 +41,9 @@ Console.WriteLine(outstr);
 // < 0 : first string comes before second in sort order
 // 0 : first and second strings are same position in sort order
 // > 0 : first string comes after the second in sort order
-
+int result = String.Compare(str2, "This is a string");
+Console.WriteLine($"{result}");
 
 // TODO: Replacing content
+string outstr1 = str1.Replace("fox","cat");
+Console.WriteLine($"{outstr1}");
