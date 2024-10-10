@@ -12,3 +12,4 @@ C:\Users\muhdm\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\refint\
 C:\Users\muhdm\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.pdb
 C:\Users\muhdm\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
 C:\Users\muhdm\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
+C:\Users\muhdm\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.sourcelink.json

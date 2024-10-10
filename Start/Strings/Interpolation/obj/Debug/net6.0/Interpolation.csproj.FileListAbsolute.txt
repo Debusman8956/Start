@@ -1,0 +1,15 @@
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.exe
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.deps.json
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.runtimeconfig.json
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.dll
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.pdb
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfoInputs.cache
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfo.cs
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.sourcelink.json
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.dll
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\refint\Interpolation.dll
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.pdb
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.genruntimeconfig.cache
+C:\Users\muhdm\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\ref\Interpolation.dll

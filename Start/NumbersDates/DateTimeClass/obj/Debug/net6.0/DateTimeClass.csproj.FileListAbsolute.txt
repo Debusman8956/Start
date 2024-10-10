@@ -1,0 +1,5 @@
+C:\Users\muhdm\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhdm\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\muhdm\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\muhdm\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\muhdm\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.sourcelink.json

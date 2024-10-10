@@ -12,3 +12,4 @@ C:\Users\muhdm\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\refint\
 C:\Users\muhdm\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.pdb
 C:\Users\muhdm\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
 C:\Users\muhdm\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\ref\Formatting.dll
+C:\Users\muhdm\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.sourcelink.json

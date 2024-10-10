@@ -1,0 +1,15 @@
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.exe
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.deps.json
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.runtimeconfig.json
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.dll
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.sourcelink.json
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.dll
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\refint\MyConsoleApp.dll
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\muhdm\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\ref\MyConsoleApp.dll

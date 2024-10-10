@@ -12,3 +12,4 @@ C:\Users\muhdm\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\re
 C:\Users\muhdm\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.pdb
 C:\Users\muhdm\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.genruntimeconfig.cache
 C:\Users\muhdm\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\ref\GarbageCollect.dll
+C:\Users\muhdm\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.sourcelink.json

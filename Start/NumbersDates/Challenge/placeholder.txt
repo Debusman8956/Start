@@ -1,1 +1,40 @@
-Use this folder to implement your solution to the challenge
+using System;
+
+namespace DaysSinceDate
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                Console.Write("Enter a date (MM/DD/YYYY) or type 'exit' to quit: ");
+                string input = Console.ReadLine();
+
+                if (input.ToLower() == "exit")
+                    break;
+
+                try
+                {
+                    DateTime enteredDate = DateTime.ParseExact(input, "MM/dd/yyyy", null);
+                    DateTime currentDate = DateTime.Now;
+
+                    if (enteredDate > currentDate)
+                    {
+                        TimeSpan timeUntil = enteredDate - currentDate;
+                        Console.WriteLine($"{timeUntil.Days} days until {enteredDate:D}.");
+                    }
+                    else
+                    {
+                        TimeSpan timeSince = currentDate - enteredDate;
+                        Console.WriteLine($"{timeSince.Days} days have passed since {enteredDate:D}.");
+                    }
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Invalid date format. Please enter a date in MM/DD/YYYY format.");
+                }
+            }
+        }
+    }
+}
