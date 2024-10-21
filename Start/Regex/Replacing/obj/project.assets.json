@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
+      "projectUniqueName": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
       "projectName": "Replacing",
-      "projectPath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
+      "projectPath": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
       "packagesPath": "C:\\Users\\muhdm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\Regex\\Replacing\\obj\\",
+      "outputPath": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\Regex\\Replacing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

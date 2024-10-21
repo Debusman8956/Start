@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
+      "projectUniqueName": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
       "projectName": "GarbageCollect",
-      "projectPath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
+      "projectPath": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
       "packagesPath": "C:\\Users\\muhdm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\obj\\",
+      "outputPath": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\Overview\\GarbageCollect\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

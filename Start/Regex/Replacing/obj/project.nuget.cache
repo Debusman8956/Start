@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i7OK5+tSMBM=",
+  "dgSpecHash": "1ONnDsaInDlwsWkoPzrcmRs++5B9tSow2/7lEOEDE+1mIsRj1c4gcum/Q3ltuSRDpOkPAw3mpeOI9h+5L91q+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
+  "projectFilePath": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",

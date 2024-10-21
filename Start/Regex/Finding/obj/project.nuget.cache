@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "88K0cH2IIoM=",
+  "dgSpecHash": "q4WzTdEr2Npyt995+ggnQsbJlgzViqMeTMkLgqoa87HZxz+pp4q+6UZEtYQn7SAVMBFL4Ha1EfcYb6ipeF7cMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\Regex\\Finding\\Finding.csproj",
+  "projectFilePath": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\Regex\\Finding\\Finding.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",

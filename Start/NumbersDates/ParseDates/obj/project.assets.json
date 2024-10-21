@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\NumbersDates\\ParseDates\\ParseDates.csproj",
+      "projectUniqueName": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\NumbersDates\\ParseDates\\ParseDates.csproj",
       "projectName": "ParseDates",
-      "projectPath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\NumbersDates\\ParseDates\\ParseDates.csproj",
+      "projectPath": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\NumbersDates\\ParseDates\\ParseDates.csproj",
       "packagesPath": "C:\\Users\\muhdm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\NumbersDates\\ParseDates\\obj\\",
+      "outputPath": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\NumbersDates\\ParseDates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n0G/V7xqRXE=",
+  "dgSpecHash": "xqkDURbVq4DCCQ5e49p3BhIwIwKG1Ujzjr6aJ9fHu8PRRNO2OIqoEhe2b9lqNorFGtzxTpHmsUzqh4Ltpq4wyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muhdm\\Downloads\\Start\\Start\\Files\\FileInfo\\FileInfo.csproj",
+  "projectFilePath": "C:\\Users\\muhdm\\Desktop\\Start\\Start\\Files\\FileInfo\\FileInfo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\muhdm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
